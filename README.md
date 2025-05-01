@@ -2,6 +2,8 @@
 
 A simple, responsive single-page website for the Bay Delta Bioregional Unconference event. This site provides information about an unconference focused on bioregional collaboration and ecological community building in the Bay Delta region.
 
+Live page: [https://benjifriedman.github.io/Co-Creating-a-Thriving-Bay-A-Bioregional-Unconference/](https://benjifriedman.github.io/Co-Creating-a-Thriving-Bay-A-Bioregional-Unconference/)
+
 ## Overview
 
 This is a static HTML/CSS website designed to:
